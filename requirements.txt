@@ -1,0 +1,5 @@
+streamlit>=1.35
+numpy>=1.24
+# Use the SAME TensorFlow version you trained the model with
+# (check with: pip show tensorflow)
+tensorflow>=2.15
